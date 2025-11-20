@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ZIHINAR1"]
 	path = ZIHINAR1
-	url = https://github.com/cran/ZIHINAR1
+	url = https://github.com/fushengyy/zihinar1
